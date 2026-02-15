@@ -3,4 +3,12 @@
 
 【影视信息存档】追剧网（电影电视剧整理站）
 
+站点名称：追剧网
+
+访问链接：https://www.mvpdream.com
+站点定位：影视内容汇总
+
+内容说明：
+追剧网汇总电影、电视剧及相关影视内容信息，页面布局简洁，更新节奏稳定。整体适合日常影视浏览参考。本条目仅用于公开站点资料记录与索引说明，不构成任何合作或推荐关系。
+
 Site notes: https://patriciaunlve.github.io/streaming-site-layout-framework/
